@@ -1,4 +1,16 @@
-# Analise de vendas com Power BI
+# Análise de Faturamento com Power BI
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed tincidunt dui. Proin vel sem ligula. Etiam eu elit vel tortor posuere ullamcorper. Phasellus non dictum leo, sed fringilla tortor. Sed efficitur cursus arcu eu varius. In ullamcorper eget elit et suscipit. Aliquam fringilla enim turpis, eu consectetur tellus lacinia a. Sed at ornare risus.
+Análise diagnóstica de faturamento, vendas e devoluções de produtos eletronicos de uma rede de lojas fictícias com propósito de aprimorar conhecimentos em Power BI através de conteúdos disponibilizados pela @HashtagTreinamentos.
 
+![Overview](./images/overview.png)
+
+Os dados foram retirados de um arquivo CSV, limpos, tratados e carregados no Power BI de forma a resultar no dashboard apresentado.
+Com a análise, podemos tirar alguns insigths como:
+Visualizar o faturamento geral da empresa e quais são as lojas com maior faturamento:
+![fatloja](./images/fatloja.png)
+Quais os produtos que mais vendem, por loja e período:
+![fatmes](./images/fatmes.png)
+Faturamento por produto:
+![fatproduto](./images/fatproduto.png)
+Índice de devolução por produto:
+![devproduto](./images/devproduto.png)
